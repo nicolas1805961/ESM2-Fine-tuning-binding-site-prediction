@@ -1,0 +1,7 @@
+batch_size: 14
+epochs: 100
+validation_step: 1
+model_checkpoint: facebook/esm2_t12_35M_UR50D
+learning_rate: 1e-4
+eta_min: 1e-7
+weight_decay: 1e-4
