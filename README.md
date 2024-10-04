@@ -1,0 +1,1 @@
+![alt text](https://github.com/nicolas1805961/ESM2-Fine-tuning-binding-site-prediction/blob/main/Example.png)
